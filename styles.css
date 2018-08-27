@@ -4,11 +4,14 @@ body{
 	font-size: 20px;
 
 }
-
+p{
+	text-align: center;
+}
 
 .jumbotron {
 	color: #ddd;
 	background-color: gray;
+	text-align: left;
 }
 .navbar-inverse .navbar-nav>li>a {
 	color: #ddd;
