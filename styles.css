@@ -6,6 +6,7 @@ body{
 }
 p{
 	text-align: center;
+ color: #a9a9a9;
 }
 
 .jumbotron {
@@ -36,4 +37,9 @@ img {
 }
 img:hover {
 	filter:grayscale(15%);
+}
+hr {
+	color:red;
+	border-top: 1px solid #a9a9a9;
+
 }
